@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Constituição da República Independente de Ribeirão City™️</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        
+        header {
+            text-align: center;
+            border-bottom: 2px solid #8B0000;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        
+        h1 {
+            font-size: 2.2em;
+            color: #8B0000;
+            margin-bottom: 5px;
+        }
+        
+        h2 {
+            font-size: 1.5em;
+            color: #8B0000;
+            border-bottom: 1px solid #8B0000;
+            padding-bottom: 5px;
+            margin-top: 30px;
+        }
+        
+        h3 {
+            font-size: 1.2em;
+            color: #8B0000;
+        }
+        
+        .subtitle {
+            font-style: italic;
+            margin-bottom: 10px;
+        }
+        
+        .version {
+            font-weight: bold;
+        }
+        
+        article {
+            margin-bottom: 20px;
+        }
+        
+        .law-number {
+            font-weight: bold;
+        }
+        
+        .law-content {
+            background-color: #f9f9f9;
+            border-left: 3px solid #8B0000;
+            padding: 10px 15px;
+            margin: 10px 0;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 2px solid #8B0000;
+            font-style: italic;
+        }
+        
+        ol {
+            padding-left: 20px;
+        }
+        
+        li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>📜 Constituição da República Independente de Ribeirão City™️</h1>
+        <div class="subtitle version">Versão 2025 | Revisada por Summer, Fundador da Cidade</div>
+    </header>
+
+    <section>
+        <h2>🏛️ SEÇÃO I — PRINCÍPIOS GERAIS</h2>
+        
+        <article>
+            <h3>Art. 001</h3>
+            <p>Ribeirão City é uma República Independente, Soberana, Popular e Justa.</p>
+        </article>
+        
+        <article>
+            <h3>Art. 002</h3>
+            <p>O povo tem o direito supremo de criar, modificar e extinguir leis conforme necessidades da sociedade ribeirãense.</p>
+        </article>
+        
+        <article>
+            <h3>Art. 003</h3>
+            <p>Os direitos humanos são respeitados, exceto em casos de crimes hediondos ou considerados "infames pela Constituição".</p>
+        </article>
+        
+        <article>
+            <h3>Art. 004</h3>
+            <p>A cidade não é subordinada a nenhuma federação ou união estrangeira, incluindo o Brasil. Possui leis próprias e independência total.</p>
+        </article>
+    </section>
+
+    <section>
+        <h2>⚖️ SEÇÃO II — DO SISTEMA JURÍDICO</h2>
+        
+        <article>
+            <h3>Art. 010</h3>
+            <p>Os julgamentos são realizados pelo Tribunal Supremo de Ribeirão City (TSRC), com poder pleno de condenar à prisão perpétua ou pena de morte.</p>
+        </article>
+        
+        <article>
+            <h3>Art. 011</h3>
+            <p>É permitido o uso de júri popular em casos com repercussão pública.</p>
+        </article>
+        
+        <article>
+            <h3>Art. 012</h3>
+            <p>A justiça será aplicada com base em evidências, confissões, e análise moral da ação.</p>
+        </article>
+    </section>
+
+    <section>
+        <h2>🔒 SEÇÃO III — DO SISTEMA PENAL</h2>
+        
+        <article>
+            <h3>Art. 015</h3>
+            <p>Crimes leves: Multa, serviços comunitários ou até 3 anos de detenção.</p>
+        </article>
+        
+        <article>
+            <h3>Art. 016</h3>
+            <p>Crimes graves: Roubo, homicídio, estupro, abuso infantil, traição nacional e corrupção são punidos com até prisão perpétua ou pena de morte.</p>
+        </article>
+        
+        <article>
+            <h3>Art. 017 — "Lei 017/2025"</h3>
+            <div class="law-content">
+                <p>"Em território de Ribeirão City, não há limite de tempo de prisão. Criminosos podem ser detidos indefinidamente até o fim natural de suas vidas, conforme sentença judicial."</p>
+            </div>
+        </article>
+        
+        <article>
+            <h3>Art. 018</h3>
+            <p>As sentenças podem ser acumulativas. Exemplo: 3 crimes hediondos = 3 sentenças perpétuas.</p>
+        </article>
+        
+        <article>
+            <h3>Art. 019</h3>
+            <p>Em caso de rebelião, todos os envolvidos perdem automaticamente o direito a visitas e podem ser transferidos para Prisão de Segurança Máxima Isolada (PSMI).</p>
+        </article>
+    </section>
+
+    <section>
+        <h2>⚰️ SEÇÃO IV — DA PENA DE MORTE</h2>
+        
+        <article>
+            <h3>Art. 020</h3>
+            <p>A pena de morte será aplicada somente nos casos abaixo:</p>
+            <ol>
+                <li>Crimes com penas acima de 400 anos (Lei 002/2025)</li>
+                <li>Crimes com reincidência hedionda tripla (3x ou mais).</li>
+                <li>Crimes de guerra ou genocídio</li>
+                <li>Terrorismo ou traição nacional</li>
+            </ol>
+        </article>
+        
+        <article>
+            <h3>Art. 021 — "Lei 002/2025"</h3>
+            <div class="law-content">
+                <p>"A pena de morte é autorizada quando a soma das penas ultrapassar 400 anos de prisão, exceto quando o país estiver em estado de guerra declarado. Em tempos de guerra, o réu poderá ser mantido vivo para fins estratégicos."</p>
+            </div>
+        </article>
+    </section>
+
+    <section>
+        <h2>🛂 SEÇÃO V — CIDADANIA E DIREITOS CIVIS</h2>
+        
+        <article>
+            <h3>Art. 030</h3>
+            <p>Todo cidadão tem direito a voto a partir dos 12 anos.</p>
+        </article>
+        
+        <article>
+            <h3>Art. 031</h3>
+            <p>É proibido tortura física, mas permitido o isolamento máximo como punição psicológica.</p>
+        </article>
+        
+        <article>
+            <h3>Art. 032</h3>
+            <p>Visitantes precisam de visto especial. Se cometerem crime em território ribeirãense, serão julgados sob as leis locais.</p>
+        </article>
+    </section>
+
+    <section>
+        <h2>🌐 SEÇÃO VI — DIFERENÇAS ENTRE RIBEIRÃO CITY E O BRASIL</h2>
+        
+        <article>
+            <h3>Art. 040</h3>
+            <p>Ribeirão City permite prisão perpétua e pena de morte, diferentemente do Brasil.</p>
+        </article>
+        
+        <article>
+            <h3>Art. 041</h3>
+            <p>Aqui, não há limite de 30 ou 40 anos de reclusão. A prisão pode durar eternamente, sem necessidade de progressão.</p>
+        </article>
+        
+        <article>
+            <h3>Art. 042</h3>
+            <p>O sistema jurídico é ágil, eficaz e não há segunda instância em casos de crimes hediondos — a decisão é final.</p>
+        </article>
+    </section>
+
+    <section>
+        <h2>🧠 SEÇÃO VII — SAÚDE MENTAL E JUSTIÇA</h2>
+        
+        <article>
+            <h3>Art. 050</h3>
+            <p>Criminosos diagnosticados com distúrbios mentais serão tratados em centros psiquiátricos especiais, exceto se o crime for doloso com plena consciência.</p>
+        </article>
+        
+        <article>
+            <h3>Art. 051</h3>
+            <p>A sanidade mental da população é prioridade. Crimes contra crianças, mulheres ou idosos são julgados com severidade máxima.</p>
+        </article>
+    </section>
+
+    <footer>
+        <p>✍️ FIM DO DOCUMENTO</p>
+        <p>Aprovado em 15/07/2025 por Summer, Fundador Supremo.</p>
+    </footer>
+</body>
+</html>
